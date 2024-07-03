@@ -2,11 +2,11 @@ const cores = [
   {
     cor1: 'pink',
     cor2: 'red',
-    cor: 'blue'
+    cor3: 'blue'
   },
   {
-    cor1: 'black',
+    cor1: 'purple',
     cor2: 'green',
-    cor: 'yellow'
+    cor3: 'black'
   }
 ]
